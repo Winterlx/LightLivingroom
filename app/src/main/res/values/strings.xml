@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LightLivingRoom</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="write">Write</string>
+    <string name="clear">Clear</string>
+    <string name="type_you_data_here">type you data here</string>
+</resources>
